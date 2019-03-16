@@ -1,4 +1,4 @@
-This is my first side project ever.
+This is my first side project ever. Made about half a year after I started programming
 when I look at it I know how horrible I was at programming back then, at least that proves that I've improved.
 Had to compile it using dev-cpp because it uses bad way of allocating array size, that allows using variable as the size.
 

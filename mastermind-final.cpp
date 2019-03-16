@@ -170,7 +170,7 @@ int main() {
 		int wynik[iloscLiczb];
 		int answers[iloscLiczb];
 
-		//oh god, 2 years... Now i now how horrible that was, I never liked it even at the start, but I had no idea how to get around it so I created this monstrosity
+		//oh god, 2 **actually 3** years... Now I know how horrible that was, I never liked it even at the start, but I had no idea how to get around it so I created this monstrosity
 
 		int prevWynik[9999][iloscLiczb];
 		int prevAnswers[9999][iloscLiczb];
